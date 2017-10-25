@@ -43,7 +43,7 @@ Also in the submission, please include your overall *comfort* and *completion* a
 **Fork** and **clone** this repo then run the necessary local setup:
 
 ```bash
-$ git clone git@github.com:ga-wdi-exercises/todo-app-react.git
+$ git clone https://github.com/SF-WDI-LABS/todo-app-react.git
 $ cd todo-app-react
 $ npm i
 $ npm start
